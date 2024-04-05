@@ -6,7 +6,9 @@ We implement all algorithms with R on a Windows machine with 2.8 GHz Core(TM) i7
 The default path of codes is "D:/experiment/JMLR/JMLR2024/code/".
 
 The path of datasets is "D:/experiment/online learning dataset/regression/".
+
 The path of datasets is "D:/experiment/online learning dataset/binary C/".
+
 The path of datasets is "D:/experiment/online learning dataset/multi-class".
 
 The store path is "D:/experiment/JMLR/JMLR2024/Result/".
